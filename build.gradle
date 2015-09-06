@@ -40,7 +40,6 @@ dependencyManagement {
 	}
 }
 
-
 eclipse {
     classpath {
          containers.remove('org.eclipse.jdt.launching.JRE_CONTAINER')
